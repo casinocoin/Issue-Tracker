@@ -40,7 +40,7 @@ This responsible disclosure policy is not an open invitation to actively scan ou
 - Phishing reports
 - Fraud reports
 
-For these complaints or reports, please [contact our support team](https://support.xumm.app/hc/en-us/requests/new).
+For these complaints or reports, please [contact our support team](https://eminence.freshdesk.com/support/tickets/new).
 
 ## Bug bounty program
 
